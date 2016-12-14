@@ -1,0 +1,25 @@
+{
+  "name": "heroku-websocket-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "websocket": "^1.0.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhashWalunj/heroku-websocket-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhashWalunj/heroku-websocket-app/issues"
+  },
+  "homepage": "https://github.com/SubhashWalunj/heroku-websocket-app#readme"
+}
